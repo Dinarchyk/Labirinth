@@ -1,0 +1,7 @@
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe.config
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\bin\Debug\Лабиринт.pdb
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csprojResolveAssemblyReference.cache
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csproj.CoreCompileInputs.cache
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+C:\Users\Динар\Documents\Visual Studio 2017\Projects\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
